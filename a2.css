@@ -1,0 +1,248 @@
+body{
+
+}
+#logo{
+    padding: 3% 8%;
+    float: left;
+}
+.navigation{
+    padding-top: 4% ;
+    padding-left: 35%;
+    word-spacing: 8ch;
+    font-size: 20px;
+
+}
+a{
+    color:  black;
+    text-decoration: none;
+}
+#text1{
+    padding-left: 8%;
+    padding-top: 15%;
+    padding-bottom: 5%;
+    font-weight: bolder
+}
+button{
+    background-color:   orange;
+    color: black;
+    padding: 15px 30px;
+    border-radius: 50px;
+    font-weight: lighter;
+}
+.About{
+    text-align: center;
+}
+#plan{
+    float: left;
+    /* padding-top: 10%; */
+    padding-left: 40px;
+    margin-left: 60px;
+    padding-bottom: 10%;
+
+}
+#text2{
+    /* padding-top: 10%; */
+    text-align: left;
+    float: left;
+    padding-bottom: 10%;
+
+
+}
+#brand{
+    float: left;
+    /* padding-top: 10%; */
+    padding-left: 25px;
+    padding-bottom: 10%;
+
+}
+#text3{
+    /* padding-top: 10%; */
+    text-align: left;
+    float: left;
+    padding-bottom: 10%;
+
+
+}
+#web{
+    float: left;
+    /* padding-top: 10%; */
+    padding-left: 10px;
+    padding-bottom: 10%;
+}
+#text4{
+    /* padding-top: 10%; */
+    text-align: left;
+    padding-bottom: 10%;
+}
+#grid{
+    background-color: black;
+    padding: 7% 7%;
+    text-align: center;
+}
+h2{
+    color: orange;
+}
+.team{
+    text-align: center;
+}
+#d1{
+    padding-top: 5%;
+    padding-left: 20%;
+    float: left;
+}
+#d2{
+    padding-top: 5%;
+    padding-left: 5%;
+    float: left;
+
+}
+#d3{
+    padding-top: 5%;
+    padding-left: 65%;
+   
+}
+.Achiement{
+    padding-top: 5%;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-bottom: 15%;
+
+}
+#text5{
+    padding-left: 5%;    
+}
+#text6{
+    padding-left: 8%;
+}
+#text7{
+    padding-left: 6%;
+}
+
+#text8{
+    padding-left: 7%;    
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+tr{
+    padding: 8px;
+    text-align: left;
+  
+}
+#contact{
+    margin-top: 70px;
+    padding-top: 29px;
+    padding-left: 90px;
+    background-color:orange;
+    color: black;
+    text-align: right;
+    border-radius: 25px;
+    float: left;
+}
+#cbutton{
+    margin-top: 60px;
+    padding: 60px 70px;
+    padding-right: 20%;
+    background-color: orange;
+    color: black;
+    text-align: right; 
+}
+#top{
+    color: white;
+}
+#mar{
+    float: left; 
+    padding-top:  40px;
+    padding-left: 100px;
+}
+#text9{
+    text-align: left;
+    float: left;
+    color: white;
+    padding-left: 10px;
+    padding-top: 40px;
+}
+#tech{
+    float: left; 
+    padding-top:  40px;
+    padding-left: 10px;
+    background-color: black;
+}
+#text10{
+    text-align: left;
+    float: left;
+    color: white;
+    padding-left: 10px;
+    padding-top: 40px;
+
+}
+#dev{
+    float: left; 
+    padding-top:  40px;
+    padding-left: 10px;
+    background-color: black;
+}
+#text11{
+    text-align: left;
+    padding-top: 40px;
+    padding-left: 910px;
+
+}
+input[type=text]{
+    width: 50%;
+    padding: 16px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border-radius: 4px;
+    box-sizing: border-box;
+    
+}
+.cont{
+    padding-top: 20px;
+    padding-left: 20px;
+    float: left;
+}
+
+#mesg{
+    padding-top: 30px;
+    padding-right: 10px;
+}
+#sbutton{
+    padding-top: 30px;
+}
+.footar{
+    margin-top: 20px;
+    padding-top: 20px;
+    height: 400px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+#yt{
+    
+    float: left;
+    padding-top: 100px;
+    padding-left: 200px;
+
+}
+#insta{
+    float: left;
+    padding-top: 100px;
+    padding-left: 50px;
+}
+#twi{
+    float: left;
+    background-color: black;
+    padding-top: 100px;
+    padding-left: 50px;
+}#fb{
+    background-color: black;
+    padding-top: 100px;
+    padding-left: 50px;
+    padding-right: 200px;
+}
+#copy{
+    padding-left: 900px;
+}
